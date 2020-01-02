@@ -1,4 +1,4 @@
-# Awesome Paraglidng 
+# Awesome Paragliding 
 
 A curated list of awesome resourses for paragliding with focuse on North America west coast
 
