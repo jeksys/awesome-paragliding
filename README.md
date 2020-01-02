@@ -10,7 +10,7 @@ A curated list of awesome resourses for paragliding with focuse on North America
 - Grouse Mountain, P3 only
 - Pemberton
 - Lumby
-- -Whistler Blackcomb- :(
+- ~Whistler Blackcomb~ :(
 
 ### Washington, US
 - Mailbox
