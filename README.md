@@ -25,6 +25,7 @@ A curated list of awesome resourses for paragliding with focuse on North America
 ## Clinics
 ### SIV
 - [Let Fly Paragliding](http://www.letflyparagliding.com/siv) by Dilan Benedetti - 3.5 days, $1150 USD, Napa Valley, CA, USA
+- [SIV Clinic](https://www.sivclinic.com) - $950, Salt Lake City, UT, USA
 ### XC
 - [Eagle Paragliding, Inc](https://paragliding.com/services/clinics/thermal-xc-clinic/) - 3 days, $795 USA, mostly in California, USA
 
