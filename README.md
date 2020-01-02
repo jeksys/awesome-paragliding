@@ -18,21 +18,21 @@ A curated list of awesome resourses for paragliding with focuse on North America
 
 ## Paragliding Tours
 ### Mexico
-- [Sea to Sky Paragliding by Guy Herrington](https://www.seatoskyparagliding.com/tours/)
+- [Sea to Sky Paragliding](https://www.seatoskyparagliding.com/tours/) by Guy Herrington
 ### Nepal
-- [Let Fly Paragliding with Ivan Ripoll](http://www.letflyparagliding.com/nepal-clinic-and-tours-1)
+- [Let Fly Paragliding](http://www.letflyparagliding.com/nepal-clinic-and-tours-1) with Ivan Ripoll
 
 ## Clinics
 ### SIV
-- [Let Fly Paragliding by Dilan Benedetti](http://www.letflyparagliding.com/siv) - 3.5 days, $1150 USD, Napa Valley, CA, USA
+- [Let Fly Paragliding](http://www.letflyparagliding.com/siv) by Dilan Benedetti - 3.5 days, $1150 USD, Napa Valley, CA, USA
 ### XC
 - [Eagle Paragliding, Inc](https://paragliding.com/services/clinics/thermal-xc-clinic/) - 3 days, $795 USA, mostly in California, USA
 
 ## Clubs and associations 
 ### Canada
-- [West coast soaring club](https://www.westcoastsoaringclub.com/)
+- [West Coast Soaring Club](https://www.westcoastsoaringclub.com/)
 - [Hang Gliding and Paragliding Association of Canada](https://www.hpac.ca/pub/)
-- [Fly BC by Jim Reach](http://www.flybc.org/siteoftheday.htm) - Woodside mountain, BC, near Harrison Hot Springs
+- [Fly BC](http://www.flybc.org/siteoftheday.htm) by Jim Reach - Woodside mountain, BC, near Harrison Hot Springs
 - [The Freedom Flight Park](https://www.freedomflightschool.com/) - Lubmy, BC, 5 hour drive from Vancouver
 
 ### USA
