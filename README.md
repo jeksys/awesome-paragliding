@@ -51,7 +51,7 @@ A curated list of awesome resourses for paragliding with focuse on North America
 
 ## Paraglide reviews
 
-## Pilot Requirenments
+## Pilot Requirements
 ### P3 Canada
 - minimum of 30 flying days
 - at least 90 flights
