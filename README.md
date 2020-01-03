@@ -28,6 +28,8 @@ A curated list of awesome resourses for paragliding with focuse on North America
 - [SIV Clinic](https://www.sivclinic.com) - $950, Salt Lake City, UT, USA
 ### XC
 - [Eagle Paragliding, Inc](https://paragliding.com/services/clinics/thermal-xc-clinic/) - 3 days, $795 USA, mostly in California, USA
+### Ground hanling
+- [Groundhandling retreat](https://www.groundhandlingchallenge.com/retreat) - 890 Eur, Silver Coast, Portugal
 
 ## Clubs and associations 
 ### Canada
@@ -43,6 +45,9 @@ A curated list of awesome resourses for paragliding with focuse on North America
 - [Andre Bandarra](https://www.youtube.com/channel/UCzYf1cmKwDMSiII9SSp6IJw/featured) - ground handling
 
 ## Blogs
+- [Dust of the universe - Testing recent paragliders and flying gear](http://ziadbassil.blogspot.com/)
+- [Flybubble](https://flybubble.com/blog/gearguides/paraglider-reviews)
+- [Groundhandling challenge](https://www.groundhandlingchallenge.com/retreat) by Andre Bandarra
 
 ## Weather
 
@@ -51,10 +56,8 @@ A curated list of awesome resourses for paragliding with focuse on North America
 - [Nova](https://www.nova.eu/en/home/)
 - [SupAir](https://www.supair.com/en/)
 
-## Paraglide reviews
-
 ## Pilot Requirements
-### P3 Canada
+### [P3 Canada]()
 - minimum of 30 flying days
 - at least 90 flights
 - minimum of 60 hours of airtime
@@ -67,4 +70,7 @@ A curated list of awesome resourses for paragliding with focuse on North America
 ## Hardware
 ### Vario
 - [SkyDrop and SkyBean](https://skybean.eu/) - 230 EUR and 80 EUR
+
+### TODO & ideas
+- how to setup inReach for paragliging, including insurance
 
