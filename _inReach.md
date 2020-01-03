@@ -1,0 +1,11 @@
+- How to use inReach for PG
+- Plan
+- sos button notes
+- predefined messages
+- device to device communication
+- share map
+- send message via map
+- sos button, default geos plan - doesn't cover PG
+- most insurances don't cover PG
+- xcfinder
+- share location using phone
