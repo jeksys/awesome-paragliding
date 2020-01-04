@@ -21,6 +21,8 @@ A curated list of awesome resourses for paragliding with focuse on North America
 - [Sea to Sky Paragliding](https://www.seatoskyparagliding.com/tours/) by Guy Herrington
 ### Nepal
 - [Let Fly Paragliding](http://www.letflyparagliding.com/nepal-clinic-and-tours-1) with Ivan Ripoll
+### World
+- [Unique Paragliding Vacations](https://paragliding.bstoked.net/)
 
 ## Clinics
 ### SIV
@@ -40,6 +42,17 @@ A curated list of awesome resourses for paragliding with focuse on North America
 
 ### USA
 
+## Weather
+- [Canada RASP](http://canadarasp.com/windgrams/select-windgram.htm)
+
+## Planning
+- [Paragliding Planning and Airspace](https://flyxc.app)
+- [Paragliding Map](https://www.paraglidingmap.com/app/)
+
+## Navigation 
+- [How to read nav charts](https://www.nationalgeographic.com/science/phenomena/2016/06/08/how-to-read-an-aeronautical-chart/)
+- [How to read RASP](https://www.youtube.com/watch?v=eHksP0QCPW0)
+
 ## Yotube
 - [Flybubble](https://www.youtube.com/user/FlybubbleParagliding)
 - [Andre Bandarra](https://www.youtube.com/channel/UCzYf1cmKwDMSiII9SSp6IJw/featured) - ground handling
@@ -49,15 +62,13 @@ A curated list of awesome resourses for paragliding with focuse on North America
 - [Flybubble](https://flybubble.com/blog/gearguides/paraglider-reviews)
 - [Groundhandling challenge](https://www.groundhandlingchallenge.com/retreat) by Andre Bandarra
 
-## Weather
-
 ## Paraglide manufacturers 
 - [Ozon](https://www.flyozone.com/paragliders/)
 - [Nova](https://www.nova.eu/en/home/)
 - [SupAir](https://www.supair.com/en/)
 
 ## Pilot Requirements
-### [P3 Canada]()
+### [P3 Canada](https://hpac.ca/pub/?pid=363#PG3)
 - minimum of 30 flying days
 - at least 90 flights
 - minimum of 60 hours of airtime
@@ -73,4 +84,5 @@ A curated list of awesome resourses for paragliding with focuse on North America
 
 ### TODO & ideas
 - how to setup inReach for paragliging, including insurance
+- https://paragliding.bstoked.net/listings/fly-over-adriatic/
 
