@@ -39,33 +39,29 @@ A curated list of awesome resourses for paragliding with focuse on North America
 - [Hang Gliding and Paragliding Association of Canada](https://www.hpac.ca/pub/)
 - [Fly BC](http://www.flybc.org/siteoftheday.htm) by Jim Reach - Woodside mountain, BC, near Harrison Hot Springs
 - [The Freedom Flight Park](https://www.freedomflightschool.com/) - Lubmy, BC, 5 hour drive from Vancouver
-
 ### USA
-
-## Weather
-- [Canada RASP](http://canadarasp.com/windgrams/select-windgram.htm)
+#### Washington
+- [Tiger Mnt, Seattle](http://www.seattleparagliding.com/tiger.php)
+#### California
+- [Mussel Rock Park, Paragliding Site aka “The Dumps”](http://www.paragliding-lessons.com/mrsg/)
 
 ## Planning
 - [Paragliding Planning and Airspace](https://flyxc.app)
 - [Paragliding Map](https://www.paraglidingmap.com/app/)
-
-## Navigation 
+### Weather
+- [Canada RASP](http://canadarasp.com/windgrams/select-windgram.htm)
+### Navigation 
 - [How to read nav charts](https://www.nationalgeographic.com/science/phenomena/2016/06/08/how-to-read-an-aeronautical-chart/)
 - [How to read RASP](https://www.youtube.com/watch?v=eHksP0QCPW0)
 
-## Yotube
+## Learn
+### Yotube
 - [Flybubble](https://www.youtube.com/user/FlybubbleParagliding)
 - [Andre Bandarra](https://www.youtube.com/channel/UCzYf1cmKwDMSiII9SSp6IJw/featured) - ground handling
-
-## Blogs
+### Blogs
 - [Dust of the universe - Testing recent paragliders and flying gear](http://ziadbassil.blogspot.com/)
 - [Flybubble](https://flybubble.com/blog/gearguides/paraglider-reviews)
 - [Groundhandling challenge](https://www.groundhandlingchallenge.com/retreat) by Andre Bandarra
-
-## Paraglide manufacturers 
-- [Ozon](https://www.flyozone.com/paragliders/)
-- [Nova](https://www.nova.eu/en/home/)
-- [SupAir](https://www.supair.com/en/)
 
 ## Pilot Requirements
 ### [P3 Canada](https://hpac.ca/pub/?pid=363#PG3)
@@ -78,11 +74,15 @@ A curated list of awesome resourses for paragliding with focuse on North America
 ### Insurance
 ### Tracking
 
-## Hardware
+## Paragliding equipment 
+- [Ozon](https://www.flyozone.com/paragliders/)
+- [Nova](https://www.nova.eu/en/home/)
+- [SupAir](https://www.supair.com/en/)
 ### Vario
 - [SkyDrop and SkyBean](https://skybean.eu/) - 230 EUR and 80 EUR
 
-### TODO & ideas
+
+# TODO & ideas
 - how to setup inReach for paragliging, including insurance
 - https://paragliding.bstoked.net/listings/fly-over-adriatic/
 
