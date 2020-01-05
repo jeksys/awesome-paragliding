@@ -32,7 +32,7 @@ A curated list of awesome resourses for paragliding with focuse on North America
 - [SIV Clinic](https://www.sivclinic.com) - $950, Salt Lake City, UT, USA
 ### XC
 - [Eagle Paragliding, Inc](https://paragliding.com/services/clinics/thermal-xc-clinic/) - 3 days, $795 USA, mostly in California, USA
-### Ground hanling
+### Ground handling
 - [Groundhandling retreat](https://www.groundhandlingchallenge.com/retreat) - 890 Eur, Silver Coast, Portugal
 
 
