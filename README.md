@@ -4,17 +4,18 @@ A curated list of awesome resourses for paragliding with focuse on North America
 
 ## Flying Locations
 ### British Columbia
-- Woodside Mountain
 - Benny
 - Bridal falls
 - Grouse Mountain, P3 only
 - Pemberton
-- Lumby
+- [Woodside Mountain](http://www.flybc.org/siteoftheday.htm) by Jim Reach - Woodside mountain, BC, near Harrison Hot Springs
+- [Lumby](https://www.freedomflightschool.com/) - Lubmy, BC, 5 hour drive from Vancouver
 - ~Whistler Blackcomb~ :(
-
 ### Washington, US
 - Mailbox
-- Tiger mnt
+- [Tiger Mnt, Seattle](http://nwparagliding.com/PilotInfo/TigerMountain/tabid/236/Default.aspx)
+### California, US
+- [Mussel Rock Park, Paragliding Site aka “The Dumps”](http://www.paragliding-lessons.com/mrsg/)
 
 ## Paragliding Tours
 ### Mexico
@@ -23,6 +24,7 @@ A curated list of awesome resourses for paragliding with focuse on North America
 - [Let Fly Paragliding](http://www.letflyparagliding.com/nepal-clinic-and-tours-1) with Ivan Ripoll
 ### World
 - [Unique Paragliding Vacations](https://paragliding.bstoked.net/)
+
 
 ## Clinics
 ### SIV
@@ -33,6 +35,7 @@ A curated list of awesome resourses for paragliding with focuse on North America
 ### Ground hanling
 - [Groundhandling retreat](https://www.groundhandlingchallenge.com/retreat) - 890 Eur, Silver Coast, Portugal
 
+
 ## Clubs and associations 
 ### Canada
 - [West Coast Soaring Club](https://www.westcoastsoaringclub.com/)
@@ -41,9 +44,8 @@ A curated list of awesome resourses for paragliding with focuse on North America
 - [The Freedom Flight Park](https://www.freedomflightschool.com/) - Lubmy, BC, 5 hour drive from Vancouver
 ### USA
 #### Washington
-- [Tiger Mnt, Seattle](http://www.seattleparagliding.com/tiger.php)
-#### California
-- [Mussel Rock Park, Paragliding Site aka “The Dumps”](http://www.paragliding-lessons.com/mrsg/)
+- [Seattle Paragliding, Seattle](http://www.seattleparagliding.com/tiger.php)
+
 
 ## Planning
 - [Paragliding Planning and Airspace](https://flyxc.app)
@@ -54,6 +56,11 @@ A curated list of awesome resourses for paragliding with focuse on North America
 - [How to read nav charts](https://www.nationalgeographic.com/science/phenomena/2016/06/08/how-to-read-an-aeronautical-chart/)
 - [How to read RASP](https://www.youtube.com/watch?v=eHksP0QCPW0)
 
+## Logbooks and flight analyse tools
+- [Leonardo - paralog](http://www.paraglidingforum.com/leonardo)
+- [Flying track visualiser](https://ayvri.com/)
+
+
 ## Learn
 ### Yotube
 - [Flybubble](https://www.youtube.com/user/FlybubbleParagliding)
@@ -63,6 +70,7 @@ A curated list of awesome resourses for paragliding with focuse on North America
 - [Flybubble](https://flybubble.com/blog/gearguides/paraglider-reviews)
 - [Groundhandling challenge](https://www.groundhandlingchallenge.com/retreat) by Andre Bandarra
 
+
 ## Pilot Requirements
 ### [P3 Canada](https://hpac.ca/pub/?pid=363#PG3)
 - minimum of 30 flying days
@@ -70,9 +78,11 @@ A curated list of awesome resourses for paragliding with focuse on North America
 - minimum of 60 hours of airtime
 - HAGAR and P3 exam
 
+
 ## Safety
 ### Insurance
 ### Tracking
+
 
 ## Paragliding equipment 
 - [Ozon](https://www.flyozone.com/paragliders/)
