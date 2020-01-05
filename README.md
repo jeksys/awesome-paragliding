@@ -55,6 +55,7 @@ A curated list of awesome resourses for paragliding with focus on North America 
 ### Navigation 
 - [How to read nav charts](https://www.nationalgeographic.com/science/phenomena/2016/06/08/how-to-read-an-aeronautical-chart/)
 - [How to read RASP](https://www.youtube.com/watch?v=eHksP0QCPW0)
+- [Windgram explained](http://wxtofly.net/windgramexplain.html)
 
 ## Logbooks and flight analyse tools
 - [Leonardo - paralog](http://www.paraglidingforum.com/leonardo)
