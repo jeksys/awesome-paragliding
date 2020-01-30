@@ -19,3 +19,6 @@ i suppose there must be a real spec somwhere out there. tom you know any?
 
 https://www.paraglidingforum.com/viewtopic.php?t=16771
 http://vali.fai-civl.org/documents/IGC-Spec_v1.00.pdf
+
+https://us0.explore.garmin.com/Feed/ShareLoader/TGNXD
+https://us0.explore.garmin.com/Feed/Share/TGNXD
