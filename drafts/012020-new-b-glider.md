@@ -1,6 +1,10 @@
 ## If I had to buy a wing today - 2020/01/11
 inspired by [Jérôme Daoust](https://www.expandingknowledge.com/Jerome/PG/Gear/Best/Wing.htm)
 
+|---|---|---|---|---|
+|---|---|---|---|---|
+|---|---|---|---|---|
+
 
 |---|---|---|---|---|
 | [Nova Ion 5](https://www.nova.eu/en/gliders/ion-5/)  |Low-B|   |   |   |
