@@ -1,6 +1,6 @@
 # Awesome Paragliding 
 
-A curated list of awesome resourses for paragliding with focus on North America west coast
+A curated list of awesome resourses for paragliding with focus on North America West coast
 
 ## Flying Locations
 ### British Columbia
@@ -11,6 +11,7 @@ A curated list of awesome resourses for paragliding with focus on North America 
 - [Woodside Mountain](http://www.flybc.org/siteoftheday.htm) by Jim Reach - Woodside mountain, BC, near Harrison Hot Springs
 - [Lumby](https://www.freedomflightschool.com/) - Lubmy, BC, 5 hour drive from Vancouver
 - ~Whistler Blackcomb~ :(
+
 ### Washington, US
 - Mailbox
 - [Tiger Mnt, Seattle](http://nwparagliding.com/PilotInfo/TigerMountain/tabid/236/Default.aspx)
@@ -25,13 +26,19 @@ A curated list of awesome resourses for paragliding with focus on North America 
 ### World
 - [Unique Paragliding Vacations](https://paragliding.bstoked.net/)
 
-
 ## Clinics
 ### SIV
-- [Let Fly Paragliding](http://www.letflyparagliding.com/siv) by Dilan Benedetti - 3.5 days, $1150 USD, Napa Valley, CA, USA
-- [SIV Clinic](https://www.sivclinic.com) - $950, Salt Lake City, UT, USA
+- [Let Fly Paragliding with Dilan Benedetti](http://www.letflyparagliding.com/siv)- 3.5 days, $1150 USD, Napa Valley, CA, USA
+- [SIV Clinic](https://www.sivclinic.com) - $950USD, Salt Lake City, UT, USA
+- [Paraglidingmexico with Marko Hrgetic](https://www.paraglidingmexico.com/en/courses/siv-courses-yelapa) - 2-4 days, $600CAD - $1100CAD  - [Yelapa, Mexico](https://goo.gl/maps/VQuLpDhtimQXytyy6)
+- [Passion Paragliding](https://www.passionparagliding.com/siv) - £765, [Oludeniz, Turkey](https://goo.gl/maps/c4PMG3tYY8CnUGM7A)
+- [Fly Spain](https://www.flyspain.co.uk/paragliding-holidays-courses/pilotage-siv/) - [Oludeniz, Turkey](https://goo.gl/maps/c4PMG3tYY8CnUGM7A)
+- [Flyeo](https://flyeo.com/en/siv-course-2/) - , Tandems, Paragliding shop
+
 ### XC
 - [Eagle Paragliding, Inc](https://paragliding.com/services/clinics/thermal-xc-clinic/) - 3 days, $795 USA, mostly in California, USA
+- [Passion Paragliding](https://www.passionparagliding.com/siv) [Oludeniz, Turkey](https://goo.gl/maps/c4PMG3tYY8CnUGM7A)
+
 ### Ground handling
 - [Groundhandling retreat](https://www.groundhandlingchallenge.com/retreat) - 890 Eur, Silver Coast, Portugal
 
