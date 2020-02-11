@@ -33,7 +33,7 @@ A curated list of awesome resourses for paragliding with focus on North America 
 - [Paraglidingmexico with Marko Hrgetic](https://www.paraglidingmexico.com/en/courses/siv-courses-yelapa) - 2-4 days, $600CAD - $1100CAD  - [Yelapa, Mexico](https://goo.gl/maps/VQuLpDhtimQXytyy6)
 - [Passion Paragliding](https://www.passionparagliding.com/siv) - £765, [Oludeniz, Turkey](https://goo.gl/maps/c4PMG3tYY8CnUGM7A)
 - [Fly Spain](https://www.flyspain.co.uk/paragliding-holidays-courses/pilotage-siv/) - [Oludeniz, Turkey](https://goo.gl/maps/c4PMG3tYY8CnUGM7A)
-- [Flyeo](https://flyeo.com/en/siv-course-2/) - , Tandems, Paragliding shop
+- [Flyeo](https://flyeo.com/en/siv-course-2/) - [Annecy, France](https://goo.gl/maps/RHgJmSfgcjbHb1wN8)
 
 ### XC
 - [Eagle Paragliding, Inc](https://paragliding.com/services/clinics/thermal-xc-clinic/) - 3 days, $795 USA, mostly in California, USA
