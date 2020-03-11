@@ -10,3 +10,5 @@ inspired by [Jérôme Daoust](https://www.expandingknowledge.com/Jerome/PG/Gear/
 [ADVANCE Xi](https://www.advance.ch/en/xi), Mid-B, 23 (75-85)
 
 [PHI Tenor Light](https://phi-air.com/project/tenor_light/), Mid-B, S19 (65-95)
+
+[Niviuk Hook 4](http://niviuk.com/en/discontinued/hook4#/140-size-21/227-color-calypso), Mid-B, 21, 65-85
