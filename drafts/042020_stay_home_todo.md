@@ -23,4 +23,9 @@
 - [SIV](https://vimeo.com/401404461?fbclid=IwAR3CgXFNjAHQYW7hJZMjQ2VZu41hmmVJy0_8MSzGdgbiJiqWvPS29IdaCHY)
 - [Paragliding across the nearly 700km of the Alaska Range](https://www.redbull.com/int-en/episodes/north-of-known-explorers-adventures-of-the-century-s05-e01?fbclid=IwAR3CgXFNjAHQYW7hJZMjQ2VZu41hmmVJy0_8MSzGdgbiJiqWvPS29IdaCHY)
 - [Canada vol biv adventure paragliding, Pacific to Rockies](https://www.youtube.com/watch?v=VqaIjbi_U1g)
-- [cross-country-travel-guide-2020](https://issuu.com/crosscountryint/docs/cross-country-travel-guide-2020-issuu-edition/)
+
+### Read and learn
+- [] [Thermals Part 1](https://www.ushpa.org/USHPA/page/thermals-part-one-collectors-wicks-and-triggers.aspx)
+- [] [Thermals Part 2](https://www.ushpa.org/USHPA/page/thermals-part-two-thermals-and-clouds.aspx)
+- [] [Thermals Part 3](https://www.ushpa.org/USHPA/page/thermals-part-three-thermalling-technique.aspx)
+- [] [cross-country-travel-guide-2020](https://issuu.com/crosscountryint/docs/cross-country-travel-guide-2020-issuu-edition/)
