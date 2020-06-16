@@ -9,7 +9,9 @@ A curated list of awesome resourses for paragliding with focus on North America 
 - Grouse Mountain, P3 only
 - Pemberton
 - [Woodside Mountain](http://www.flybc.org/siteoftheday.htm) by Jim Reach - Woodside mountain, BC, near Harrison Hot Springs
-- [Lumby](https://www.freedomflightschool.com/) - Lubmy, BC, 5 hour drive from Vancouver
+- [Lumby](https://www.freedomflightschool.com/) - Lubmy, BC, 5 hour drive from Vancouver, camping
+- [ ] Savona (https://www.flyok.ca/phpbb3/viewtopic.php?f=12&t=121), 3.5 hour drive from Vancouver, camping
+- [ ] Hedly
 - ~Whistler Blackcomb~ :(
 
 ### Washington, US
@@ -29,8 +31,10 @@ A curated list of awesome resourses for paragliding with focus on North America 
 ## Clinics
 ### SIV
 - [Let Fly Paragliding with Dilan Benedetti](http://www.letflyparagliding.com/siv)- 3.5 days, $1150 USD, Napa Valley, CA, USA
+- [iParaglide](http://www.iparaglide.com/paragliding-siv-acro-vancouver/) - $1200 CAD, 2+1 days, Pitt Lake, BC
+
 - [SIV Clinic](https://www.sivclinic.com) - $950USD, Salt Lake City, UT, USA
-- [Paraglidingmexico with Marko Hrgetic](https://www.paraglidingmexico.com/en/courses/siv-courses-yelapa) - 2-4 days, $600CAD - $1100CAD  - [Yelapa, Mexico](https://goo.gl/maps/VQuLpDhtimQXytyy6)
+- [Paraglidingmexico with Marko Hrgetic](https://www.paraglidingmexico.com/en/courses/siv-courses-yelapa) - 2-4 days, $600CAD - $1100CAD  -> [Yelapa, Mexico](https://goo.gl/maps/VQuLpDhtimQXytyy6)
 - [Passion Paragliding](https://www.passionparagliding.com/siv) - £765, [Oludeniz, Turkey](https://goo.gl/maps/c4PMG3tYY8CnUGM7A)
 - [Fly Spain](https://www.flyspain.co.uk/paragliding-holidays-courses/pilotage-siv/) - [Oludeniz, Turkey](https://goo.gl/maps/c4PMG3tYY8CnUGM7A)
 - [Flyeo](https://flyeo.com/en/siv-course-2/) - [Annecy, France](https://goo.gl/maps/RHgJmSfgcjbHb1wN8)
@@ -38,6 +42,7 @@ A curated list of awesome resourses for paragliding with focus on North America 
 ### XC
 - [Eagle Paragliding, Inc](https://paragliding.com/services/clinics/thermal-xc-clinic/) - 3 days, $795 USA, mostly in California, USA
 - [Passion Paragliding](https://www.passionparagliding.com/siv) [Oludeniz, Turkey](https://goo.gl/maps/c4PMG3tYY8CnUGM7A)
+- [SeaToSky paragliding](https://www.seatoskyparagliding.com/), Guy Herrington
 
 ### Ground handling
 - [Groundhandling retreat](https://www.groundhandlingchallenge.com/retreat) - 890 Eur, Silver Coast, Portugal
@@ -77,7 +82,8 @@ A curated list of awesome resourses for paragliding with focus on North America 
 - [Dust of the universe - Testing recent paragliders and flying gear](http://ziadbassil.blogspot.com/)
 - [Flybubble](https://flybubble.com/blog/gearguides/paraglider-reviews)
 - [Groundhandling challenge](https://www.groundhandlingchallenge.com/retreat) by Andre Bandarra
-
+- [Упал – отжался. Главное правило в горах.](http://www.para2000.ru/xc/xcfly/upal-otzhalsya)
+- [Я есть ГРУТ! – Главное правило равнинного пилота.](http://www.para2000.ru/xc/xcfly/plants_rules/)
 
 ## Pilot Requirements
 ### [P3 Canada](https://hpac.ca/pub/?pid=363#PG3)
@@ -86,21 +92,23 @@ A curated list of awesome resourses for paragliding with focus on North America 
 - minimum of 60 hours of airtime
 - HAGAR and P3 exam
 
-
 ## Safety
+
 ### Insurance
 ### Tracking
-
 
 ## Paragliding equipment 
 - [Ozon](https://www.flyozone.com/paragliders/)
 - [Nova](https://www.nova.eu/en/home/)
 - [SupAir](https://www.supair.com/en/)
+- [Niviuk](http://niviuk.com/en/)
+
 ### Vario
 - [SkyDrop and SkyBean](https://skybean.eu/) - 230 EUR and 80 EUR
 
 
 # TODO & ideas
 - how to setup inReach for paragliging, including insurance
+- If I buy a new ENB paraglide today 
 - https://paragliding.bstoked.net/listings/fly-over-adriatic/
 
