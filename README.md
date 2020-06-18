@@ -10,8 +10,8 @@ A curated list of awesome resourses for paragliding with focus on North America 
 - Pemberton
 - [Woodside Mountain](http://www.flybc.org/siteoftheday.htm) by Jim Reach - Woodside mountain, BC, near Harrison Hot Springs
 - [Lumby](https://www.freedomflightschool.com/) - Lubmy, BC, 5 hour drive from Vancouver, camping
-- [ ] Savona (https://www.flyok.ca/phpbb3/viewtopic.php?f=12&t=121), 3.5 hour drive from Vancouver, camping
-- [ ] Hedly
+- [Savona](https://www.flyok.ca/phpbb3/viewtopic.php?f=12&t=121), 3.5 hour drive from Vancouver, camping
+- [Hedly]
 - ~Whistler Blackcomb~ :(
 
 ### Washington, US
