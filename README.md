@@ -12,6 +12,7 @@ A curated list of awesome resourses for paragliding with focus on North America 
 - [Lumby](https://www.freedomflightschool.com/) - Lubmy, BC, 5 hour drive from Vancouver, camping
 - [Savona](https://www.flyok.ca/phpbb3/viewtopic.php?f=12&t=121), 3.5 hour drive from Vancouver, camping
 - [Hedly]
+- [Sun Peaks, ski resort](sun_peaks.md)
 - ~Whistler Blackcomb~ :(
 
 ### Washington, US
