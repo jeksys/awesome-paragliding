@@ -6,13 +6,14 @@ A curated list of awesome resourses for paragliding with focus on North America 
 ### British Columbia
 - Benny
 - Bridal falls
-- Grouse Mountain, P3 only
+- [Grouse Mountain](https://gmft.westcoastsoaringclub.com/flying-grouse), P3 only 
 - Pemberton
 - [Woodside Mountain](http://www.flybc.org/siteoftheday.htm) by Jim Reach - Woodside mountain, BC, near Harrison Hot Springs
 - [Lumby](https://www.freedomflightschool.com/) - Lubmy, BC, 5 hour drive from Vancouver, camping
 - [Savona](https://www.flyok.ca/phpbb3/viewtopic.php?f=12&t=121), 3.5 hour drive from Vancouver, camping
-- [Hedly]
 - [Sun Peaks, ski resort](sun_peaks.md)
+- [Revelstok](http://revelstokeparagliding.com/visiting-pilot-info/)
+- [Hedly]
 - ~Whistler Blackcomb~ :(
 
 ### Washington, US
