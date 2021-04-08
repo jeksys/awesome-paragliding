@@ -5,7 +5,7 @@ A curated list of awesome resourses for paragliding with focus on North America 
 ## Flying Locations
 ### British Columbia
 - Benny
-- [Little Nic](little_nic.md)
+- [Little Nic](sites/little_nic.md)
 - Bridal falls
 - [Grouse Mountain](https://gmft.westcoastsoaringclub.com/flying-grouse), P3 only 
 - Pemberton
