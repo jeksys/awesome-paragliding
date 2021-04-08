@@ -3,3 +3,6 @@
 
 End of hawkins pickle road. 
 Cross the bridge & on your left is the start of the trail Trail is roughly like that, red pinpoint start and end
+
+![nic_lz1](https://user-images.githubusercontent.com/699627/114075600-90474300-985a-11eb-9a8f-e28275191fd5.jpg)
+![nic_lz2](https://user-images.githubusercontent.com/699627/114075611-92a99d00-985a-11eb-96ba-5b20fa41ea05.jpg)
