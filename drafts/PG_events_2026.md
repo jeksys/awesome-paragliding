@@ -19,9 +19,9 @@
 ### 2026 Canadian Paragliding National Championship
 - Date: July 04 - 08
 - Location: Golden, BC
-- URL: []()
+- URL: [https://cpgro.org/upcomingevents](https://cpgro.org/upcomingevents)
 - Fee: $450CAD
-- Contact: [https://cpgro.org/upcomingevents](https://cpgro.org/upcomingevents)
+- Contact: 
 ---
 
 ### Lumby AirForce Hang Gliding and Free Flight 50TH ANNIVERSARY Celebration!
@@ -47,7 +47,7 @@
 - Location: Golden, BC
 - URL: [https://thewillixc.com](https://thewillixc.com)
 - Fee: $160CAD
-- Contact: [thewillixc.com/contact](https://thewillixc.com/contact), [williflyfar@gmail.com](mailto:williflyfar@gmail.com)
+- Contact: [williflyfar@gmail.com](mailto:williflyfar@gmail.com)
 ---
 
 ### Touchthesky SIV
@@ -62,13 +62,13 @@
 - Location: Clearwater, BC
 - URL: [https://xskyparagliding.com/visiting-pilots](https://xskyparagliding.com/visiting-pilots)
 - Fee: Free, camping for a fee 
-- Contact: [](), Wells Gray [xskyparagliding@gmail.com](mailto:xskyparagliding@gmail.com), 250.674.1108
+- Contact: Wells Gray [xskyparagliding@gmail.com](mailto:xskyparagliding@gmail.com), 250.674.1108
 ---
 
 ### Sea To Sky Paraglidng XC Clinic
 - Date: TBD
 - Location: Pemberton, BC 
-- URL: [[https://www.seatoskyparagliding.com/](https://www.seatoskyparagliding.com/)]
+- URL: [https://www.seatoskyparagliding.com/](https://www.seatoskyparagliding.com/)
 - Fee: 
 - Contact: Guy Herrington
 ---
@@ -76,9 +76,9 @@
 ### Island FlyIn
 - Date: TBD
 - Location: Vancouver Island, BC
-- URL: []()
+- URL: 
 - Fee: 
-- Contact: [](), [](mailto:)
+- Contact: 
 ---
 
 ### Revelstoke FlyIn
@@ -86,5 +86,5 @@
 - Location: Revelstoke, BC
 - URL: [https://revelstokeparagliding.com/](https://revelstokeparagliding.com/)
 - Fee: 
-- Contact: [](), [](mailto:)
+- Contact: 
 ---
