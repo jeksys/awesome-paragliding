@@ -65,6 +65,14 @@
 - Contact: Wells Gray [xskyparagliding@gmail.com](mailto:xskyparagliding@gmail.com), 250.674.1108
 ---
 
+### Baldy Fly-in Paragliding Event
+- Date: September 4-7th
+- Location: Baldy Mountain Resort, BC, Canada
+- URL: [https://xskyparagliding.com/visiting-pilots](https://baldyresort.com/events/)
+- Fee: free
+- Contact: [fb@skibaldy.com](mailto:fb@skibaldy.com)
+---
+
 ### Sea To Sky Paraglidng XC Clinic
 - Date: TBD
 - Location: Pemberton, BC 
