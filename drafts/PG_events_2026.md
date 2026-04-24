@@ -29,7 +29,7 @@
 - Date: July 11-16
 - Location: Freedom Flight Park #249 Mabel Lake Road, Lumby BC Canada
 - URL: [https://lumbyairforce.weebly.com/events.html](https://lumbyairforce.weebly.com/events.html)
-- Fee: $160CAD
+- Fee: 
 - Contact: Randy@Rauck.ca Text: 250-307-7553
 ---
 
@@ -37,7 +37,7 @@
 - Date: July 18-25
 - Location: Golden, BC
 - URL: [https://civlcomps.org/event/canadian-hang-gliding-national-championship](https://civlcomps.org/event/canadian-hang-gliding-national-championship)
-- Fee: 
+- Fee: $250CAD
 - Contact: 
 ---
 
@@ -55,7 +55,7 @@
 - Location: Harrison Lake, Fraser Valley, BC
 - URL: [https://touchthesky.ca/register](https://touchthesky.ca/register)
 - Fee: $2200CAD
----
+- Contact: [https://touchthesky.ca/#about](https://touchthesky.ca/#about)
 
 ### El Nido - Fly-In
 - Date: May, July, September  2026
