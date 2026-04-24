@@ -9,7 +9,7 @@
 ---
 
 ### Beginner Thermal Flying Clinic | 2 Days
-- Date: Sat/Sun - May 2-3Sat/Sun - May 9-10
+- Date: May 2-3, May 9-10
 - Location: Lubmy, BC
 - URL: [https://www.paraglidecanada.com/collections/courses/products/thermaling-2-day-weekend-course](https://www.paraglidecanada.com/collections/courses/products/thermaling-2-day-weekend-course)
 - Fee: $500CAD
@@ -17,7 +17,7 @@
 ---
 
 ### 2026 Canadian Paragliding National Championship
-- Date: 04 - 08 Jul, 2026
+- Date: July 04 - 08
 - Location: Golden, BC
 - URL: []()
 - Fee: $450CAD
@@ -58,7 +58,7 @@
 - Contact: [https://touchthesky.ca/#about](https://touchthesky.ca/#about)
 
 ### El Nido - Fly-In
-- Date: May, July, September  2026
+- Date: May 16-18th, July 24-28, September 4-7th
 - Location: Clearwater, BC
 - URL: [https://xskyparagliding.com/visiting-pilots](https://xskyparagliding.com/visiting-pilots)
 - Fee: Free, camping for a fee 
@@ -66,16 +66,16 @@
 ---
 
 ### Sea To Sky Paraglidng XC Clinic
-- Date: ?
+- Date: TBD
 - Location: Pemberton, BC 
 - URL: [[https://www.seatoskyparagliding.com/](https://www.seatoskyparagliding.com/)]
-- Fee: ?
+- Fee: 
 - Contact: Guy Herrington
 ---
 
 ### Island FlyIn
 - Date: TBD
-- Location: Vancouver Island, 
+- Location: Vancouver Island, BC
 - URL: []()
 - Fee: 
 - Contact: [](), [](mailto:)
