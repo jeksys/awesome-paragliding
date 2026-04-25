@@ -16,6 +16,22 @@
 - Contact: [info@paraglidecanada.com](mailto:info@paraglidecanada.com), 250-899-3683
 ---
 
+### Island XC/race camp
+- Date: May 16 - 18
+- Location: Vancouver Island, BC
+- URL: 
+- Fee: 
+- Contact: Sam
+---
+
+### Island - Fly-In
+- Date: June 13
+- Location: Vancouver Island, BC
+- URL: 
+- Fee: 
+- Contact: Sam
+---
+
 ### 2026 Canadian Paragliding National Championship
 - Date: July 04 - 08
 - Location: Golden, BC
@@ -81,18 +97,26 @@
 - Contact: Guy Herrington
 ---
 
-### Island FlyIn
+### Revelstoke FlyIn
 - Date: TBD
-- Location: Vancouver Island, BC
+- Location: Revelstoke, BC
+- URL: [https://revelstokeparagliding.com/](https://revelstokeparagliding.com/)
+- Fee: 
+- Contact: 
+---
+
+### Pemberton Racing Weekend
+- Date: TBD
+- Location: Pemberton, BC
 - URL: 
 - Fee: 
 - Contact: 
 ---
 
-### Revelstoke FlyIn
+### Bridal Racing Weekend
 - Date: TBD
-- Location: Revelstoke, BC
-- URL: [https://revelstokeparagliding.com/](https://revelstokeparagliding.com/)
+- Location: Fraser Valley, BC
+- URL: 
 - Fee: 
 - Contact: 
 ---
