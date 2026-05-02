@@ -74,7 +74,7 @@
 - Contact: [https://touchthesky.ca/#about](https://touchthesky.ca/#about)
 
 ### El Nido - Fly-In
-- Date: May 16-18th, July 24-28, September 4-7th
+- Date: May 16-18th, July 25 – August 4, September 4-7th
 - Location: Clearwater, BC
 - URL: [https://xskyparagliding.com/visiting-pilots](https://xskyparagliding.com/visiting-pilots)
 - Fee: Free, camping for a fee 
