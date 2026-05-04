@@ -24,6 +24,14 @@
 - Contact: Sam
 ---
 
+### Adaptive Airtime Flying weekend 
+- Date: May 15 - 17
+- Location: mnt. Woodside, Agassiz, BC
+- URL: https://www.adaptiveairtime.com
+- Fee: 
+- Contact: info@adaptiveairtime.com, phone: + 1 (604) 825 5420
+---
+
 ### Island - Fly-In
 - Date: June 13
 - Location: Vancouver Island, BC
