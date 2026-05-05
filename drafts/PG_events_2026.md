@@ -16,10 +16,10 @@
 - Contact: [info@paraglidecanada.com](mailto:info@paraglidecanada.com), 250-899-3683
 ---
 
-### Island XC/race camp
+### WCSC Intro to Racing Series - Vancouver Island (likely Port Alberni) with Sam
 - Date: May 16 - 18
 - Location: Vancouver Island, BC
-- URL: 
+- URL: https://www.westcoastsoaringclub.com/intro-to-racing-series-may-16-17-30-31-and-june-20-21/
 - Fee: 
 - Contact: Sam
 ---
@@ -32,12 +32,20 @@
 - Contact: info@adaptiveairtime.com, phone: + 1 (604) 825 5420
 ---
 
-### Island - Fly-In
-- Date: June 13
-- Location: Vancouver Island, BC
-- URL: 
+### WCSC Intro to Racing Series - Fraser Valley with Malcolm
+- Date: May 30 - 31
+- Location: mnt. Woodside, Agassiz, BC
+- URL: https://www.westcoastsoaringclub.com/intro-to-racing-series-may-16-17-30-31-and-june-20-21/
 - Fee: 
-- Contact: Sam
+- Contact: Sam, Malcolm
+---
+
+### WCSC Intro to Racing Series - Pemberton with Chloe
+- Date: May 30 - 31
+- Location: Pemberton, BC
+- URL: https://www.westcoastsoaringclub.com/intro-to-racing-series-may-16-17-30-31-and-june-20-21/
+- Fee: 
+- Contact: Sam, Chloe
 ---
 
 ### 2026 Canadian Paragliding National Championship
