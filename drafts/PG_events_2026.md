@@ -100,7 +100,7 @@
 ### 50th Annual lakeside event
 - Date: Aug 8th
 - Location: James Chabot Beach, Invermere, BC, Canada
-- URL: [https://www.lakesideevent.com/](https://baldyresort.com/events/)](https://www.lakesideevent.com/)
+- URL: [https://www.lakesideevent.com/](https://www.lakesideevent.com/)
 - Fee: $80
 - Contact: Blake Garland [lakesideevent@gmail.com](mailto:lakesideevent@gmail.com)
 ---
